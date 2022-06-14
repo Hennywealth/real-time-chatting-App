@@ -1,5 +1,5 @@
 # real-time-chatting-App
-Real-time chat App built with django and ajax implementation.
+A simple implementation of a **Real-time Chat Application** built with django and ajax implementation.
 
 **Technologies.**
 
